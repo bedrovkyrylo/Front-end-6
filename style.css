@@ -1,0 +1,28 @@
+#people {
+  display: flex;
+  background-color: rgb(162, 164, 179);
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.card {
+  border: 1px solid black;
+  padding: 10px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card img {
+  border-radius: 10%;
+  height: 200px;
+}
+
+button{
+  background-color: rgb(162, 164, 179);
+  border: 2px solid black;
+  font-size: 24px;
+  margin-left: 10px;
+}
+
+body{
+  background-color: rgb(120, 123, 144);
+}
